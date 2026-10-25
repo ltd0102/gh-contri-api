@@ -82,3 +82,5 @@ This project combines ideas and behavior from:
 * [`deno-github-contributions-api`](https://github.com/kawarimidoll/deno-github-contributions-api) – Deno-based API for fetching GitHub contribution data.
 
 All trademarks and GitHub logos or styles are the property of their respective owners. This project is not affiliated with or endorsed by GitHub.
+
+Trigger Cloudflare Workers build
